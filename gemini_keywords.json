@@ -1,0 +1,456 @@
+{
+  "val_001": {
+    "abbreviations": [
+      "StPO"
+    ],
+    "german_keywords": [
+      "Abs.",
+      "lit.",
+      "Kollusionsgefahr",
+      "Wiederholungsgefahr",
+      "Verhältnismässigkeit",
+      "Untersuchungshaft"
+    ]
+  },
+  "val_002": {
+    "abbreviations": [
+      "ATSG",
+      "IVG",
+      "UVG"
+    ],
+    "german_keywords": [
+      "Invalidität",
+      "Erwerbsfähigkeit",
+      "Arbeitsfähigkeit",
+      "Medizinisches Gutachten",
+      "Angepasste Tätigkeit",
+      "Invaliditätsgrad"
+    ]
+  },
+  "val_003": {
+    "abbreviations": [
+      "StGB",
+      "StPO"
+    ],
+    "german_keywords": [
+      "Straftaten",
+      "Diebstahl",
+      "Körperverletzung",
+      "Zwangsmassnahmen",
+      "Untersuchungshaft",
+      "Fluchtgefahr",
+      "Kollusionsgefahr",
+      "Beschuldigter",
+      "Mittäterschaft"
+    ]
+  },
+  "val_004": {
+    "abbreviations": [
+      "ZGB",
+      "OR"
+    ],
+    "german_keywords": [
+      "eigenhändiges Testament",
+      "Testierfähigkeit",
+      "Erbrecht"
+    ]
+  },
+  "val_005": {
+    "abbreviations": [
+      "ZGB",
+      "StGB",
+      "StPO"
+    ],
+    "german_keywords": [
+      "Elterliche Sorge",
+      "Obhut",
+      "Umgangsrecht",
+      "Besuchsrecht",
+      "Sexueller Übergriff",
+      "Haft",
+      "Strafverfahren",
+      "Forensisch-psychiatrisches Gutachten",
+      "Kindes- und Erwachsenenschutzbehörde (KESB)",
+      "Begleiteter Umgang",
+      "Beistandschaft",
+      "Kindesunterhalt",
+      "Suchtbehandlung"
+    ]
+  },
+  "val_006": {
+    "abbreviations": [
+      "ZGB",
+      "OR"
+    ],
+    "german_keywords": [
+      "Haftung",
+      "Schaden",
+      "Werkvertrag",
+      "unerlaubte Handlung",
+      "Verschulden",
+      "Kausalzusammenhang",
+      "Auftrag",
+      "Sorgfaltspflicht",
+      "Brandschaden"
+    ]
+  },
+  "val_007": {
+    "abbreviations": [
+      "ZGB",
+      "OR"
+    ],
+    "german_keywords": [
+      "Erbrecht",
+      "Schenkung",
+      "Schenkung von Todes wegen",
+      "Handlungsfähigkeit",
+      "Besitz",
+      "Eigentum",
+      "Urkunde"
+    ]
+  },
+  "val_008": {
+    "abbreviations": [
+      "StGB",
+      "OR"
+    ],
+    "german_keywords": [
+      "Ungetreue Geschäftsbesorgung",
+      "Interessenkonflikt",
+      "Gemeinderat",
+      "Stiftung",
+      "Vermögensschaden",
+      "Öffentliche Hand"
+    ]
+  },
+  "val_009": {
+    "abbreviations": [
+      "ZGB",
+      "SchKG",
+      "ZPO",
+      "IPRG"
+    ],
+    "german_keywords": [
+      "Kindesunterhalt",
+      "Unterhaltspflicht",
+      "Scheidung",
+      "Elterliche Sorge",
+      "Betreibung",
+      "Arrest",
+      "Zwangsverwertung",
+      "Haftstrafe",
+      "Miteigentum",
+      "Vorschusszahlungen",
+      "Verwertungserlös"
+    ]
+  },
+  "val_010": {
+    "abbreviations": [
+      "OR",
+      "ZGB",
+      "IPRG",
+      "ZPO"
+    ],
+    "german_keywords": [
+      "Vollmacht",
+      "Auftrag",
+      "Haftung",
+      "Grobfahrlässigkeit",
+      "Sorgfaltspflicht",
+      "Verjährung",
+      "Allgemeine Geschäftsbedingungen",
+      "Rügepflicht",
+      "Genehmigung",
+      "Fälschung",
+      "Bankvertrag",
+      "Schaden",
+      "Internationales Privatrecht"
+    ]
+  },
+  "test_001": {
+    "abbreviations": [
+      "URG",
+      "UWG",
+      "ZPO",
+      "OR",
+      "IPRG"
+    ],
+    "german_keywords": [
+      "Vorsorgliche Massnahmen",
+      "Zuständigkeit",
+      "Glaubhaftmachung",
+      "Aktivlegitimation",
+      "Urheberrecht",
+      "Unlauterer Wettbewerb",
+      "Geschäftsgeheimnis",
+      "Unterlassungsverfügung",
+      "Beweissicherung",
+      "Quellcode"
+    ]
+  },
+  "test_002": {
+    "abbreviations": [
+      "SVG",
+      "OR",
+      "ZPO",
+      "IVG",
+      "ATSG"
+    ],
+    "german_keywords": [
+      "Verjährung",
+      "Grobfahrlässigkeit",
+      "Fahrzeughalter",
+      "Schadenersatz",
+      "Erwerbsunfähigkeit",
+      "Haftpflicht",
+      "Strassenverkehrsgesetz",
+      "IV-Stelle",
+      "Forderungen",
+      "Verkehrsunfall"
+    ]
+  },
+  "test_003": {
+    "abbreviations": [
+      "OR",
+      "SchKG"
+    ],
+    "german_keywords": [
+      "Mietvertrag",
+      "Solidarschuldner",
+      "Konkurs",
+      "Rückgabe",
+      "übermässige Abnützung",
+      "Instandstellungskosten",
+      "Kündigung",
+      "Forderung",
+      "Prüf- und Rügepflicht"
+    ]
+  },
+  "test_004": {
+    "abbreviations": [
+      "SchKG"
+    ],
+    "german_keywords": [
+      "Zahlungsbefehl",
+      "Rechtsvorschlag",
+      "Rechtsöffnung",
+      "Dispositiv",
+      "Begründung",
+      "Konkurseröffnungsbegehren",
+      "Verwirkungsfrist",
+      "Zahlungsfähigkeit",
+      "Betreibungsregisterauszug",
+      "Stillstand"
+    ]
+  },
+  "test_005": {
+    "abbreviations": [
+      "ZGB",
+      "OR",
+      "SchKG"
+    ],
+    "german_keywords": [
+      "Schuldbrief",
+      "Grundpfand",
+      "Darlehensvertrag",
+      "Kündigung",
+      "provisorische Rechtsöffnung",
+      "Rechtsvorschlag",
+      "Verwertung",
+      "Grundstück",
+      "Schuldner"
+    ]
+  },
+  "test_006": {
+    "abbreviations": [
+      "PrHG",
+      "OR",
+      "ZPO"
+    ],
+    "german_keywords": [
+      "Produktehaftpflichtgesetz",
+      "Produktehaftpflicht",
+      "Schadenersatz",
+      "Genugtuung",
+      "Verjährung",
+      "Mangel",
+      "Haftung",
+      "Exkulpation"
+    ]
+  },
+  "test_007": {
+    "abbreviations": [
+      "OR",
+      "ZPO"
+    ],
+    "german_keywords": [
+      "Sorgfaltspflicht",
+      "Haftung",
+      "Schadenersatz",
+      "Widerklage",
+      "Auftrag",
+      "Honorar",
+      "Kunstfehler"
+    ]
+  },
+  "test_008": {
+    "abbreviations": [
+      "ZGB",
+      "IPRG",
+      "ZPO",
+      "BGG"
+    ],
+    "german_keywords": [
+      "Minderjährige Kinder",
+      "elterliche Sorge",
+      "gewöhnlicher Aufenthalt",
+      "Zuständigkeit",
+      "Unterhaltsvorschüsse",
+      "unrechtmässige Verbringung",
+      "provisorische Massnahmen",
+      "Vaterschaftsanerkennung"
+    ]
+  },
+  "test_009": {
+    "abbreviations": [
+      "IPRG",
+      "ZGB",
+      "ZPO"
+    ],
+    "german_keywords": [
+      "Internationales Privatrecht",
+      "Anerkennung und Vollstreckung",
+      "Erbrecht",
+      "Nachlass",
+      "Doppelehe",
+      "Eheungültigkeit",
+      "Ordre public",
+      "Apostille",
+      "Erbenschein"
+    ]
+  },
+  "test_010": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_011": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_012": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_013": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_014": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_015": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_016": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_017": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_018": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_019": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_020": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_021": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_022": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_023": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_024": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_025": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_026": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_027": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_028": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_029": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_030": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_031": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_032": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_033": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_034": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_035": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_036": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_037": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_038": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_039": {
+    "abbreviations": [],
+    "german_keywords": []
+  },
+  "test_040": {
+    "abbreviations": [],
+    "german_keywords": []
+  }
+}
